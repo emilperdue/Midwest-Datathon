@@ -1,2 +1,7 @@
 # Midwest-Datathon
-Repository for Citadel Midwest Datathon (Spring 2023) - 1st Place Submission
+Repository for Citadel Midwest Regional Datathon (Spring 2023) - 1st Place Submission ($10,000 Prize)
+
+The Grass is Bluer on the Other Side: Analyzing Greenspaces and Bluespaces as Substitutes
+- Co-Authored by Arnhav Datar, Yash Gupta, Emil Perdue, and David Suh
+
+Description: Greenspaces (e.g. parks and vegetation) and Bluespaces (e.g. bodies of water) have separately been linked to their positive impacts on the microclimate of urban sprawls like New York City. Here, we focus on quantifying the extent of these impacts simultaneously, examining the complementarity or substitutability of these spaces. Using an original Gaussian Distance metric and K-means Clustering, we identify four groups of census tracts in New York city that are very well suited to disentangling the effects of these spaces. Results showed that while greenspaces and bluespaces both had a positive effect, their combined impact was much weaker than the sum of their individual impacts, indicating strong substitutability. Moreover, we link these climate parameters to human mental health through proxies such as human sentiment, where we analyze geotagged Twitter data using time series analysis and rigorous statistical testing. The results showed consistent patterns. To further establish the duality with microclimate, we use a nearest neighbors minima-finding algorithm to predict potential locations for blue/green spaces. Finally, we provide a quantitative application of our findings by modeling the marginal benefit of installing green infrastructure by using a novel differential model to predict which counties would benefit the most from these efforts.
